@@ -112,7 +112,7 @@
                     </view>
                     <connections>
                         <outlet property="myActivityIndicator" destination="mJH-Xw-Z5S" id="9pi-DY-D7W"/>
-                        <outlet property="myWebView" destination="mJH-Xw-Z5S" id="wRJ-lT-WWP"/>
+                        <outlet property="myWebView" destination="IlD-rV-qTY" id="NbA-ig-vq8"/>
                         <outlet property="txtUrl" destination="WGU-yv-5IS" id="R2D-HY-Kgx"/>
                     </connections>
                 </viewController>

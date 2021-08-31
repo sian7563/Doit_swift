@@ -14,6 +14,7 @@
 		F124BA7126D9F7E400E5A4D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F124BA7026D9F7E400E5A4D2 /* Assets.xcassets */; };
 		F124BA7426D9F7E400E5A4D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F124BA7226D9F7E400E5A4D2 /* LaunchScreen.storyboard */; };
 		F124BA7E26DA3F8D00E5A4D2 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F124BA7D26DA3F8D00E5A4D2 /* WebKit.framework */; };
+		F124BACA26DDA3C900E5A4D2 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = F124BAC926DDA3C900E5A4D2 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F124BA7326D9F7E400E5A4D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F124BA7526D9F7E400E5A4D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F124BA7D26DA3F8D00E5A4D2 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		F124BAC926DDA3C900E5A4D2 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F124BA6726D9F7DF00E5A4D2 /* AppDelegate.swift */,
 				F124BA6926D9F7DF00E5A4D2 /* SceneDelegate.swift */,
 				F124BA6B26D9F7DF00E5A4D2 /* ViewController.swift */,
+				F124BAC926DDA3C900E5A4D2 /* htmlView.html */,
 				F124BA6D26D9F7DF00E5A4D2 /* Main.storyboard */,
 				F124BA7026D9F7E400E5A4D2 /* Assets.xcassets */,
 				F124BA7226D9F7E400E5A4D2 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F124BACA26DDA3C900E5A4D2 /* htmlView.html in Resources */,
 				F124BA7426D9F7E400E5A4D2 /* LaunchScreen.storyboard in Resources */,
 				F124BA7126D9F7E400E5A4D2 /* Assets.xcassets in Resources */,
 				F124BA6F26D9F7DF00E5A4D2 /* Main.storyboard in Resources */,
